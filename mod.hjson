@@ -6,3 +6,4 @@ version: 1.0.0
 minGameVersion: 135
 dependencies: [trrestghgytcftgbcxszdcheatdustry]
 java: true
+main: "fundustryarcade.FundustryArcade"
