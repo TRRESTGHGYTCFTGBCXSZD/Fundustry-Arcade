@@ -1,0 +1,18 @@
+{
+	"type": "LogicBlock"
+    "health": 10000,
+    "size": 2,
+	"range": 1600
+    "requirements": [
+		"phase-fabric/300"
+		"metaglass/150"
+		"plastanium/150"
+		"surge-alloy/150"
+		"thorium/150"
+		"titanium/150"
+		"silicon/150"
+	],
+    "category": "logic",
+    "research": "hyper-processor",
+	"instructionsPerTick": 1
+}

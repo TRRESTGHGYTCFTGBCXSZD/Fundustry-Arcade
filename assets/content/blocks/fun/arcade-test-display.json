@@ -1,0 +1,18 @@
+{
+	"type": "LogicDisplay"
+    "health": 10000,
+    "size": 16,
+	"maxSides": 1000
+	"displaySize": 448
+    "requirements": [
+		"phase-fabric/300"
+		"metaglass/150"
+		"plastanium/150"
+		"surge-alloy/150"
+		"thorium/150"
+		"titanium/150"
+		"silicon/150"
+	],
+    "category": "logic",
+    "research": "hyper-processor",
+}
